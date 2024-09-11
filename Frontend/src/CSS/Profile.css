@@ -1,0 +1,8 @@
+#Profile h2{
+    font-size: 3em;
+    background: -webkit-linear-gradient(#eee, #333);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    /* color:#a004bc; */
+    font-weight: 700;
+}
